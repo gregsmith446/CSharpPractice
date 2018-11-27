@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/gsmith/Desktop/Visual Studio Projects/VS Code/cSharp-Fundamentals/cSharp-Fundamentals.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
